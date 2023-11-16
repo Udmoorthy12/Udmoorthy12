@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Udmoorthy12
 - 👀 I’m interested in Designing 
 - 🌱 I’m currently learning UI/UX Designs
-- 💞️ I’m looking to collaborate on the companies 
+  
   
 
 <!---
